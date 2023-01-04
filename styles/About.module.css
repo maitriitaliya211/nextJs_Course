@@ -1,0 +1,14 @@
+.container {
+  margin: 45px auto;
+  max-width: 50vw;
+}
+.center {
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    margin: 40px auto;
+    max-width: 90vw;
+  }
+}
