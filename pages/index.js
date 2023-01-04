@@ -21,7 +21,7 @@ export default function Home() {
         <main className={styles.main}>
           <img
             className={styles.myImg}
-            src="/homeImg.avif"
+            src="/images.png"
             alt="hunting coder"
             width={150}
             height={150}
