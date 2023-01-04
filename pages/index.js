@@ -27,7 +27,7 @@ export default function Home() {
             height={150}
           />
           <h1 className={styles.title}>
-            <span className="dummy">&lt;jaydeepCoder/&gt;</span>
+            <span className="dummy">&lt;maitriCoder/&gt;</span>
           </h1>
 
           <div>
